@@ -15,3 +15,5 @@ eggs
 develop-eggs
 parts
 src
+*.egg-info
+
